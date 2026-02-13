@@ -1,0 +1,4 @@
+git@github.com:NivedV1/Download.git
+
+Add-AppxPackage -Path "C:\Path\YourApp.appxbundle"
+
